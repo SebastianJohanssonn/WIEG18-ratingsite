@@ -1,0 +1,15 @@
+.info {
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+    height:30em;
+}
+p {
+    margin: 0.5em;
+}
+img {
+    width: 20em;
+    margin: auto;
+}

@@ -1,0 +1,9 @@
+.content {
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+h4 {
+    margin: 0.5em;
+}
