@@ -14,7 +14,7 @@
         include "header.php";
     ?>
     <div class="content">
-    <h1 class="rubrik">Min Topplista:</h1>
+    <h1><?php myConstant();?>:</h1>
     <form action="./details.php" method="POST">
         <select class="dropdown" name="dropdown">
             <?php
